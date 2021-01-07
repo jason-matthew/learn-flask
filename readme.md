@@ -7,7 +7,7 @@ Subdirectories capture standalone applications
 App | Notes 
 ----|------
 [00](./00) | Hello World
-[01](./01) | 
+[01](./01) | File upload
 
 ## Setup 
 
@@ -22,6 +22,7 @@ flask run
 ```
 
 ## Usage
+
 ```bash
 curl localhost:5000/
 ```
